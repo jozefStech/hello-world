@@ -1,0 +1,2 @@
+# hello-world
+diplomová práca
